@@ -1,4 +1,8 @@
 [
+  {
+        "name": "Requ",
+        "colors": ["#FFE000", "#799F0C"]
+    },
     {
         "name": "Berimbolo",
         "colors": ["#02111D", "#037BB5", "#02111D"]
